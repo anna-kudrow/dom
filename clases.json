@@ -1,0 +1,20 @@
+[
+  {
+    "name": "football",
+    "time": "16:00",
+    "maxParticipants": 20,
+    "participants": 15
+  },
+  {
+    "name": "bascketball",
+    "time": "17:00",
+    "maxParticipants": 20,
+    "participants": 20
+  },
+  {
+    "name": "hokkey",
+    "time": "18:00",
+    "maxParticipants": 20,
+    "participants": 19
+  }
+]
